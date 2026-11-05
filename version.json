@@ -1,6 +1,6 @@
 {
- "version": "1.3",
- "notas": "Los calendarios de grupo abren el grupo entero, y la cuenta ya no se queda en blanco al guardar sus Ajustes",
- "url": "https://github.com/carlos-leks/tp-cuentas-descargas/releases/download/v1.3/TP-Cuentas-1.3.zip",
+ "version": "1.4",
+ "notas": "Al abrir, el calendario sale tapado con «Abriendo…» hasta que aparece el grupo",
+ "url": "https://github.com/carlos-leks/tp-cuentas-descargas/releases/download/v1.4/TP-Cuentas-1.4.zip",
  "tema": ""
 }
