@@ -1,6 +1,6 @@
 {
- "version": "1.4",
- "notas": "Al abrir, el calendario sale tapado con «Abriendo…» hasta que aparece el grupo",
- "url": "https://github.com/carlos-leks/tp-cuentas-descargas/releases/download/v1.4/TP-Cuentas-1.4.zip",
+ "version": "1.5",
+ "notas": "Arriba a la derecha, el número de la cuenta en la que estás (1/3, 2/3…); al pulsarlo cambias de cuenta",
+ "url": "https://github.com/carlos-leks/tp-cuentas-descargas/releases/download/v1.5/TP-Cuentas-1.5.zip",
  "tema": ""
 }
