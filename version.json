@@ -1,6 +1,6 @@
 {
- "version": "1.5",
- "notas": "Arriba a la derecha, el número de la cuenta en la que estás (1/3, 2/3…); al pulsarlo cambias de cuenta",
- "url": "https://github.com/carlos-leks/tp-cuentas-descargas/releases/download/v1.5/TP-Cuentas-1.5.zip",
+ "version": "1.6",
+ "notas": "Arriba a la derecha, todas tus cuentas con su foto; la activa lleva un círculo y pulsando otra cambias. Ya no se quedan encima al abrir un entrenamiento",
+ "url": "https://github.com/carlos-leks/tp-cuentas-descargas/releases/download/v1.6/TP-Cuentas-1.6.zip",
  "tema": ""
 }
